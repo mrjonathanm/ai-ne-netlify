@@ -12,7 +12,7 @@
         "export": "node ./sanity-export/export.js"
     },
     "dependencies": {
-        "@sanity/astro": "^3.1.6",
+        "@sanity/astro": "^3.0.1",
         "@sanity/client": "^6.22.0",
         "@sanity/validation": "^3.14.4",
         "@tailwindcss/vite": "^4.0.9",
@@ -26,7 +26,7 @@
     "devDependencies": {
         "@sanity/export": "^3.38.1",
         "@sanity/import": "^3.37.4",
-        "@stackbit/cms-sanity": "^0.2.86",
+        "@stackbit/cms-sanity": "^0.0.19",
         "@stackbit/types": "^2.0.0",
         "configstore": "7.0.0",
         "daisyui": "^5.0.0"
