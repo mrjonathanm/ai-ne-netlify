@@ -8,7 +8,7 @@ export default defineConfig({
   title: 'jm-uk',
 
   projectId: 'f8463tkj',
-  dataset: 'ai-ne',
+  dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
 
